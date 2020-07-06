@@ -1,6 +1,6 @@
 {
-"companyName": "johnchoi",
-"productName": "Home 3D Scan",
+"companyName": "CMU ETC",
+"productName": "TechLab WebGL Demo",
 "dataUrl": "TechLab2.data.unityweb",
 "wasmCodeUrl": "TechLab2.wasm.code.unityweb",
 "wasmFrameworkUrl": "TechLab2.wasm.framework.unityweb",
