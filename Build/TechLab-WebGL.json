@@ -1,0 +1,13 @@
+{
+"companyName": "CMU ETC",
+"productName": "TechLab WebGL Demo",
+"dataUrl": "TechLab-WebGL.data.unityweb",
+"wasmCodeUrl": "TechLab-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "TechLab-WebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
